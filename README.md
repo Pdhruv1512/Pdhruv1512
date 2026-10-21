@@ -1,12 +1,12 @@
-# Hi, I'm Dhruv Patel 👋
+# Hi, I'm Dhruv Patel
 
-Aspiring **Data Analyst** based in New Jersey, building projects that answer real business questions with data.
+I'm working toward a data analyst role. I currently work in a clinical lab in New Jersey and spend my free time building projects with SQL, Python, and Tableau.
 
-- 🔍 Currently working through the **Google Data Analytics Professional Certificate**
-- 🧰 **Skills:** SQL · PostgreSQL · Python · Tableau · Excel · C++
-- 💼 Open to entry-level **Data Analyst**, **Business Analyst**, and **Database Administrator** roles
+- Working on the Google Data Analytics Professional Certificate
+- Skills: SQL, PostgreSQL, Python, Tableau, Excel, C++
+- Looking for entry-level Data Analyst, Business Analyst, or Database Administrator roles
 
-## 📂 Featured Projects
+## Projects
 
 | Project | What it shows |
 |---|---|
@@ -15,4 +15,4 @@ Aspiring **Data Analyst** based in New Jersey, building projects that answer rea
 | [PostgreSQL Database Administration](https://github.com/Pdhruv1512/ecommerce-postgres-dba) | Schema design, indexing (27x faster lookups), roles, verified backups |
 | [E-Commerce Sales Dashboard](https://github.com/Pdhruv1512/ecommerce-sales-dashboard) | Interactive Tableau dashboard ([live](https://public.tableau.com/app/profile/pdhruv15/viz/E-CommerceSalesDashboard_17924822464680/SalesDashboard)) |
 
-📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/dhruvp12/) · 📊 [My Tableau Public profile](https://public.tableau.com/app/profile/pdhruv15)
+[LinkedIn](https://www.linkedin.com/in/dhruvp12/) · [Tableau Public](https://public.tableau.com/app/profile/pdhruv15)
